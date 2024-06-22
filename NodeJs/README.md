@@ -1,12 +1,8 @@
 # Node.js Interview Questions
 
-*Click <img src="assets/star.png" width="18" height="18" align="absmiddle" title="Star" /> if you like the project. Pull Requests are highly appreciated.*
+
 
 ## Table of Contents
-
-* *[NodeJS APIs](nodejs-api.md)*
-* *[NodeJS Coding Practice](nodejs-programming.md)*
-* *[NodeJS Commands](nodejs-commands.md)*
 
 <br/>
 
@@ -3598,29 +3594,3 @@ hashPwd = crypto.createHash('sha1').update(key).digest('hex');
 console.log(hashPwd); //ef5225a03e4f9cc953ab3c4dd41f5c4db7dc2e5b
 ```
 
-<div align="right">
-    <b><a href="#">↥ back to top</a></b>
-</div>
-
-#### Q. ***Is it possible to use "Class" in Node.js?***
-#### Q. ***Explain Error Handling approaches in Node.js?***
-#### Q. ***How would you handle errors for async code in Node.js?***
-#### Q. ***What are the use cases for the Node.js "vm" core module?***
-#### Q. ***Explain the concept of Domain in Node.js?***
-#### Q. ***What is Node-API (N-API)?***
-#### Q. ***Why Node.js is a single threaded language?***
-#### Q. ***How to use locale (i18n) in Node.js?***
-#### Q. ***What are the types of memory leaks in node.js***
-#### Q. ***How to implement a Sleep function?***
-#### Q. ***How does the cluster load balance work in node.js?***
-#### Q. ***What is daemon process? how to implement it in node.js?*** 
-#### Q. ***How to synchronize data between multiple clients on node.js server?***
-#### Q. ***How do you convert an existing callback API to promises?***
-#### Q. ***How would you scale Node application?***
-#### Q. ***How to solve "Process out of Memory Exception" in Node.js?***
-#### Q. ***How does the cluster module work? What is the difference between it and a load balancer?***
-#### Q. ***Why do we need C++ Addons in Node.js?***
-
-<div align="right">
-    <b><a href="#">↥ back to top</a></b>
-</div>
